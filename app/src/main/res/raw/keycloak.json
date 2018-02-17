@@ -1,0 +1,10 @@
+{
+  "realm": "pruebas",
+  "auth-server-url": "http://keycloak-keycloak-sso-development.apps.console.sistcoop.org/auth",
+  "ssl-required": "external",
+  "resource": "wolsnut4",
+  "credentials": {
+    "secret": "51f53b5b-04ed-462a-a7f1-b641888a7345"
+  },
+  "use-resource-role-mappings": true
+}
